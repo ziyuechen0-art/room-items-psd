@@ -1,0 +1,9 @@
+# Only these three reviewed files may be staged.
+/*
+!/.gitignore
+!/README.md
+!/skills/
+/skills/*
+!/skills/room-items-psd/
+/skills/room-items-psd/*
+!/skills/room-items-psd/SKILL.md
